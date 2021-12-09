@@ -1,1 +1,9 @@
-// Code your solution in this file!
+function distanceFromHqInBlocks(someValue){
+    console.log()
+
+}
+
+function distanceaFromHqInFeet(someValue){
+    console.log
+
+}
